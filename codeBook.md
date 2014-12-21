@@ -1,5 +1,5 @@
 # codeBook.md #
-is one of 3 files for course **getdata-016** project, December 2014.
+is one of 4 files for course **getdata-016** project, December 2014.
 [https://www.coursera.org/course/getdata](https://www.coursera.org/course/getdata)
 
 **codeBook.md** decripts the variables of result - tidy data set **tidyData.txt**.
@@ -132,17 +132,3 @@ For example, **"TimeDomain.BodyAcceleration.Mean.X"** consists of:
 # Tidy data #
 Data file **tidyData.txt** is plain text file with comma-separated values. 
 Data values are average of measurements for each activity and each subject with normalized values from -1 to 1.
-
-https://bitbucket.org/maurotrb/getting-cleaning-data-2014-project/src/c5dcc9dc81efb9dbb866db2c9bdcf7c738a04e87/CodeBook.md?at=master
-
-https://github.com/dgraziotin/GCD-project/blob/master/CodeBook.md
-
-
-
-- **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
-- Quotes (`Ctrl+Q`)
-- Code blocks (`Ctrl+K`)
-- Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
-
-- Lists (`Ctrl+U` and `Ctrl+Shift+O`)
-
